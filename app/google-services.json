@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "175596923879",
+    "firebase_url": "https://thuligal-b4de4.firebaseio.com",
+    "project_id": "thuligal-b4de4",
+    "storage_bucket": "thuligal-b4de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175596923879:android:edac2e86ce788ae0",
+        "android_client_info": {
+          "package_name": "com.iyaltamizh.thuligal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175596923879-cl9vaiaki4lb0jj2eiqldqiml7o075cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iyaltamizh.thuligal",
+            "certificate_hash": "b53a155b3ec46dd47498faa4138a5274d1e67433"
+          }
+        },
+        {
+          "client_id": "175596923879-f37rplktp9kdubpi7k5jbb8qf5sqm7g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJL-fqbXDYYPP0x3LbvzJBQ9WavIBcI58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175596923879-f37rplktp9kdubpi7k5jbb8qf5sqm7g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
