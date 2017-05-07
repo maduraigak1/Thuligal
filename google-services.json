@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "287478814367",
+    "firebase_url": "https://watercan-6d013.firebaseio.com",
+    "project_id": "watercan-6d013",
+    "storage_bucket": "watercan-6d013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287478814367:android:edac2e86ce788ae0",
+        "android_client_info": {
+          "package_name": "com.iyaltamizh.thuligal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287478814367-fg3ggpvaril9el969sl9cc5p0cjj76tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeN23ml4VvxtRLlrZ_1Xizy3KR8gMvs0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
